@@ -1,4 +1,5 @@
-# Human_Activity_Recognition_CNN_RNN
+# Human_Activity_Recognition_CNN
+
 
 📚 Project Description:
 In the digital age, the explosion of video data opens new possibilities for applications like Human Activity Recognition (HAR). Traditionally, HAR methods depended on manually engineered features and classifiers. With the rise of deep learning, particularly Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), this field has transformed.
