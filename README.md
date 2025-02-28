@@ -1,4 +1,4 @@
-# Human_Activity_Recognition_CNN
+# Human_Activity_Recognition_CNN_RNN
 
 
 📚 Project Description:
